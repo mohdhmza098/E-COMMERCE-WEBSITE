@@ -42,22 +42,6 @@ E-Commerce-Website/
 └── README.md
 ```
 
-## 🚀 Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/e-commerce-website.git
-```
-
-Open the project folder and run:
-
-```text
-index.html
-```
-
-Or simply open `index.html` in your browser.
-
 ## 🎯 What I Learned
 
 While building this project, I practiced:
